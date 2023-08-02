@@ -1,0 +1,285 @@
+{
+    "cards": [
+      {
+        "title": "Introduction to JavaScript",
+        "content": "JavaScript is a widely-used programming language for web development.",
+        "tags": ["Javascript", "Web Development", "Programming"]
+      },
+      {
+        "title": "React Basics",
+        "content": "React is a popular JavaScript library for building user interfaces.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "HTML5 Fundamentals",
+        "content": "HTML5 is the latest version of HTML and the foundation of web pages.",
+        "tags": ["HTML5", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "CSS3 Styling",
+        "content": "CSS3 is used to style and layout web pages.",
+        "tags": ["CSS3", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "JavaScript DOM Manipulation",
+        "content": "The Document Object Model (DOM) allows dynamic interaction with web pages using JavaScript.",
+        "tags": ["Javascript", "Web Development", "DOM"]
+      },
+      {
+        "title": "Introduction to Node.js",
+        "content": "Node.js is a server-side JavaScript runtime environment.",
+        "tags": ["Node.js", "Javascript", "Server-side"]
+      },
+      {
+        "title": "React Hooks",
+        "content": "React Hooks provide a way to use state and other React features without writing a class.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "CSS Flexbox Layout",
+        "content": "Flexbox is a CSS layout model that allows items to align and distribute within a container.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "JavaScript Promises",
+        "content": "Promises in JavaScript handle asynchronous operations in a more elegant way.",
+        "tags": ["Javascript", "Web Development", "Async"]
+      },
+      {
+        "title": "React Component Lifecycle",
+        "content": "React components have several lifecycle methods that can be used for specific tasks.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "Responsive Web Design",
+        "content": "Responsive design allows web pages to adapt to different screen sizes.",
+        "tags": ["Web Development", "CSS", "Front End Basics"]
+      },
+      {
+        "title": "JavaScript ES6 Features",
+        "content": "ES6 introduced new features and syntax improvements to JavaScript.",
+        "tags": ["Javascript", "Web Development", "ES6"]
+      },
+      {
+        "title": "React Router",
+        "content": "React Router enables navigation and routing in React applications.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "CSS Grid Layout",
+        "content": "CSS Grid Layout allows complex layouts with rows and columns in CSS.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "Introduction to Express.js",
+        "content": "Express.js is a web application framework for Node.js.",
+        "tags": ["Express.js", "Node.js", "Javascript"]
+      },
+      {
+        "title": "React Context API",
+        "content": "The Context API in React provides a way to pass data through the component tree without prop drilling.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "CSS Transitions and Animations",
+        "content": "CSS allows smooth transitions and animations for web elements.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "Introduction to MongoDB",
+        "content": "MongoDB is a NoSQL database used for storing data in JSON-like documents.",
+        "tags": ["MongoDB", "Database", "NoSQL"]
+      },
+      {
+        "title": "JavaScript Fetch API",
+        "content": "The Fetch API in JavaScript allows making HTTP requests.",
+        "tags": ["Javascript", "Web Development", "HTTP"]
+      },
+      {
+        "title": "React State Management with Redux",
+        "content": "Redux is a predictable state container for JavaScript apps.",
+        "tags": ["React", "Front End Basics", "Redux"]
+      },
+      {
+        "title": "CSS Media Queries",
+        "content": "Media queries in CSS enable different styles based on screen sizes.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "Introduction to GraphQL",
+        "content": "GraphQL is a query language for your API, and a server-side runtime for executing those queries.",
+        "tags": ["GraphQL", "API", "Web Development"]
+      },
+      {
+        "title": "JavaScript Object-Oriented Programming",
+        "content": "Object-Oriented Programming (OOP) is a programming paradigm that uses objects and classes.",
+        "tags": ["Javascript", "Web Development", "OOP"]
+      },
+      {
+        "title": "React Performance Optimization",
+        "content": "Optimizing React applications for better performance and user experience.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "CSS Preprocessors (Sass/SCSS)",
+        "content": "Sass/SCSS are CSS preprocessors that add features like variables and nested rules.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "Introduction to PostgreSQL",
+        "content": "PostgreSQL is a powerful open-source relational database management system.",
+        "tags": ["PostgreSQL", "Database", "SQL"]
+      },
+      {
+        "title": "JavaScript Error Handling",
+        "content": "Handling errors and exceptions in JavaScript code.",
+        "tags": ["Javascript", "Web Development", "Error Handling"]
+      },
+      {
+        "title": "React Styling with Styled Components",
+        "content": "Styled Components is a popular CSS-in-JS library for styling React components.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "CSS Flexbox vs. CSS Grid",
+        "content": "Comparing the differences and use cases of CSS Flexbox and CSS Grid.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "Introduction to RESTful APIs",
+        "content": "RESTful APIs provide a standard way of creating, updating, and deleting resources.",
+        "tags": ["API", "Web Development", "REST"]
+      },
+      {
+        "title": "JavaScript Module Bundlers (Webpack)",
+        "content": "Webpack is a popular JavaScript module bundler.",
+        "tags": ["Javascript", "Web Development", "Webpack"]
+      },
+      {
+        "title": "React Forms and Validation",
+        "content": "Handling forms and validation in React applications.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "CSS Box Model",
+        "content": "Understanding the CSS box model and how elements are rendered on the web page.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "Introduction to Docker",
+        "content": "Docker is a platform to develop, deploy, and run applications inside containers.",
+        "tags": ["Docker", "DevOps", "Containerization"]
+      },
+      {
+        "title": "JavaScript Unit Testing (Jest)",
+        "content": "Jest is a popular JavaScript testing framework for unit testing.",
+        "tags": ["Javascript", "Web Development", "Testing"]
+      },
+      {
+        "title": "React Server-Side Rendering (SSR)",
+        "content": "Server-Side Rendering (SSR) in React for improved SEO and initial load time.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "CSS Positioning (Absolute, Relative, Fixed)",
+        "content": "CSS positioning allows precise control over the layout of web elements.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "Introduction to GraphQL",
+        "content": "GraphQL is a query language for your API, and a server-side runtime for executing those queries.",
+        "tags": ["GraphQL", "API", "Web Development"]
+      },
+      {
+        "title": "JavaScript Array Methods",
+        "content": "Exploring various array methods available in JavaScript.",
+        "tags": ["Javascript", "Web Development", "Arrays"]
+      },
+      {
+        "title": "React Context API",
+        "content": "The Context API in React provides a way to pass data through the component tree without prop drilling.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "CSS Transitions and Animations",
+        "content": "CSS allows smooth transitions and animations for web elements.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "Introduction to MongoDB",
+        "content": "MongoDB is a NoSQL database used for storing data in JSON-like documents.",
+        "tags": ["MongoDB", "Database", "NoSQL"]
+      },
+      {
+        "title": "JavaScript Fetch API",
+        "content": "The Fetch API in JavaScript allows making HTTP requests.",
+        "tags": ["Javascript", "Web Development", "HTTP"]
+      },
+      {
+        "title": "React State Management with Redux",
+        "content": "Redux is a predictable state container for JavaScript apps.",
+        "tags": ["React", "Front End Basics", "Redux"]
+      },
+      {
+        "title": "CSS Media Queries",
+        "content": "Media queries in CSS enable different styles based on screen sizes.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "Introduction to GraphQL",
+        "content": "GraphQL is a query language for your API, and a server-side runtime for executing those queries.",
+        "tags": ["GraphQL", "API", "Web Development"]
+      },
+      {
+        "title": "JavaScript Object-Oriented Programming",
+        "content": "Object-Oriented Programming (OOP) is a programming paradigm that uses objects and classes.",
+        "tags": ["Javascript", "Web Development", "OOP"]
+      },
+      {
+        "title": "React Performance Optimization",
+        "content": "Optimizing React applications for better performance and user experience.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "CSS Preprocessors (Sass/SCSS)",
+        "content": "Sass/SCSS are CSS preprocessors that add features like variables and nested rules.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "Introduction to PostgreSQL",
+        "content": "PostgreSQL is a powerful open-source relational database management system.",
+        "tags": ["PostgreSQL", "Database", "SQL"]
+      },
+      {
+        "title": "JavaScript Error Handling",
+        "content": "Handling errors and exceptions in JavaScript code.",
+        "tags": ["Javascript", "Web Development", "Error Handling"]
+      },
+      {
+        "title": "React Styling with Styled Components",
+        "content": "Styled Components is a popular CSS-in-JS library for styling React components.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      },
+      {
+        "title": "CSS Flexbox vs. CSS Grid",
+        "content": "Comparing the differences and use cases of CSS Flexbox and CSS Grid.",
+        "tags": ["CSS", "Web Development", "Front End Basics"]
+      },
+      {
+        "title": "Introduction to RESTful APIs",
+        "content": "RESTful APIs provide a standard way of creating, updating, and deleting resources.",
+        "tags": ["API", "Web Development", "REST"]
+      },
+      {
+        "title": "JavaScript Module Bundlers (Webpack)",
+        "content": "Webpack is a popular JavaScript module bundler.",
+        "tags": ["Javascript", "Web Development", "Webpack"]
+      },
+      {
+        "title": "React Forms and Validation",
+        "content": "Handling forms and validation in React applications.",
+        "tags": ["React", "Front End Basics", "Web Development"]
+      }
+    ]
+  }
+  
